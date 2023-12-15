@@ -1,0 +1,6 @@
+path: c:\Users\kerem\OneDrive\Masaüstü\archive\projects\python_cv\UAV_detector\data #has to be absolute path, not relative path
+train: train/images #can be relative path
+val: val/images
+
+names:
+  0: drone  #drone class
